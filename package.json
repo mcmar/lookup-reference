@@ -1,11 +1,24 @@
 {
   "name": "formula-lookup-reference",
-  "version": "0.0.1",
-  "description": "",
+  "version": "1.0.0",
+  "description": "Spreadsheet Lookup and Reference functions",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Peter Moresi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FormulaPages/lookup-reference.git"
+  },
+  "keywords": [
+    "Spreadsheet",
+    "JavaScript",
+    "Formula.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/FormulaPages/lookup-reference/issues"
+  },
+  "homepage": "https://github.com/FormulaPages/lookup-reference#readme"
 }
