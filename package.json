@@ -1,6 +1,6 @@
 {
   "name": "formula-lookup-reference",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Spreadsheet Lookup and Reference functions",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/FormulaPages/lookup-reference/issues"
   },
-  "homepage": "https://github.com/FormulaPages/lookup-reference#readme"
+  "homepage": "https://github.com/FormulaPages/lookup-reference#readme",
+  "dependencies": {
+    "formula-hlookup": "^1.0.2",
+    "formula-lookup": "^1.0.1",
+    "formula-vlookup": "^1.0.0"
+  }
 }
