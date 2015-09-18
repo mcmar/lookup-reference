@@ -11,5 +11,4 @@ export default {
   ROW: new Error('Not implemented.'),
   ROWS: new Error('Not implemented.'),
   VLOOKUP: require('formula-vlookup'),
-
 }

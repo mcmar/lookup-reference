@@ -1,6 +1,6 @@
 {
   "name": "formula-lookup-reference",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Spreadsheet Lookup and Reference functions",
   "main": "index.js",
   "scripts": {
