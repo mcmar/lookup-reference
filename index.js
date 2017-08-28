@@ -17,7 +17,7 @@
     ADDRESS: new Error('Not implemented.'),
     COLUMN: new Error('Not implemented.'),
     COLUMNS: new Error('Not implemented.'),
-    LOOKUP: requirev('formula-lookup'),
+    LOOKUP: require('formula-lookup'),
     HLOOKUP: require('formula-hlookup'),
     INDEX: new Error('Not implemented.'),
     INDIRECT: new Error('Not implemented.'),
